@@ -23,4 +23,4 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djonathan-Briesch&size_weight=0.5&count_weight=0.5&hide=php,java&layout=compact&theme=dark">
 
-![Snake animation](https://github.com/djonathan-briesch/djonathan-briesch/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/djonathan-briesch/djonathan-briesch/dist/github-contribution-grid-snake.svg)
